@@ -4,7 +4,7 @@ Implementación de una lista doblemente enlazada circular para la gestión y rep
 
 ## Integrantes del Equipo
 - Kevin Natanael Serrano Paredes
-- Nombre Completo 2
+- Ríos Rodríguez Emily
 - Nombre Completo 3
 - Nombre Completo 4
 
